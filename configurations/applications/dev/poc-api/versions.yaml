@@ -1,0 +1,4 @@
+workloads:
+  poc-api:
+    image:
+      tag: "0.2.0"
