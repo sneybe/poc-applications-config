@@ -1,4 +1,5 @@
-workloads:
-  poc-api:
-    image:
-      tag: "0.3.0"
+blueprint:
+  workloads:
+    poc-api:
+      image:
+        tag: "0.3.0"
