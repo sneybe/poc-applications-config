@@ -1,0 +1,8 @@
+blueprint:
+  workloads:
+    poc-api:
+      image:
+        tag: "0.4.0"
+      replicas: 2
+      ingress:
+        host: poc-api-qa.local
