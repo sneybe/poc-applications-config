@@ -1,0 +1,6 @@
+blueprint:
+  workloads:
+    poc-api:
+      replicas: 2
+      ingress:
+        host: poc-api-qa.local
